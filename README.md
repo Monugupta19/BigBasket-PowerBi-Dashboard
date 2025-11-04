@@ -59,3 +59,9 @@ Power BI: Data modeling, DAX measures, and visualization
 Microsoft Excel (optional): For initial data review
 
 🖼 Dashboard Preview
+
+
+<img width="915" height="486" alt="Screenshot 2025-11-04 174200" src="https://github.com/user-attachments/assets/71665cf2-8303-42ac-861e-129f8688521f" />
+
+
+
